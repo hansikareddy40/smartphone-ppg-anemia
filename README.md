@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Smartphone PPG–Based Anemia Detection
 Using Photoplethysmography (PPG) + Machine Learning + Streamlit GUI
 
@@ -36,7 +35,6 @@ Predict anemia probability from any fingertip video
 Display signal, peaks, features, and health guidance
 
 Build a deployable Streamlit dashboard
-=======
 # smartphone-ppg-anemia
 Smartphone Camera and Flashlight real-time fingertip video processing  based Anemia Detection 
->>>>>>> c10d64ccc47435ff396460a745c9d812c7e322b2
+
